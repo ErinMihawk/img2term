@@ -1,0 +1,9 @@
+{
+  "name": "img2term",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "get-pixels": "^3.3.2"
+  }
+}
